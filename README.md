@@ -1,4 +1,4 @@
-<Link href="https://search-camp.herokuapp.com/">The Completed full-stack demo is run on Heroku here</Link>
+The Completed full-stack demo is run on Heroku here: <link> https://search-camp.herokuapp.com/ </link>
 
 
 # SearchCamp2
